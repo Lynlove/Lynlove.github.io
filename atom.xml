@@ -42,11 +42,11 @@
     <category term="Javaweb" scheme="http://example.com/categories/Javaweb/"/>
     
     
-    <category term="spring" scheme="http://example.com/tags/spring/"/>
+    <category term="Mybatis" scheme="http://example.com/tags/Mybatis/"/>
     
     <category term="Maven" scheme="http://example.com/tags/Maven/"/>
     
-    <category term="Mybatis" scheme="http://example.com/tags/Mybatis/"/>
+    <category term="spring" scheme="http://example.com/tags/spring/"/>
     
   </entry>
   
@@ -73,9 +73,9 @@
     <category term="Javaweb" scheme="http://example.com/categories/Javaweb/"/>
     
     
-    <category term="Maven" scheme="http://example.com/tags/Maven/"/>
-    
     <category term="Mybatis" scheme="http://example.com/tags/Mybatis/"/>
+    
+    <category term="Maven" scheme="http://example.com/tags/Maven/"/>
     
     <category term="Java" scheme="http://example.com/tags/Java/"/>
     
